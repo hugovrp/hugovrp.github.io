@@ -27,12 +27,14 @@
 .formacao .subtitulo {
   color: #000;
   max-width: 5ch;
+  margin-top: 60px;
 }
 
 .formacao-texto {
   font-size: 1.5rem;
   line-height: 1.33;
   margin-bottom: 60px;
+  margin-top: 60px;
   max-width: 40ch;
   color: #a3a3a3;
 }
